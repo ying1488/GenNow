@@ -34,3 +34,23 @@ Generate tailored recommendations and support interventions.
 Leverage news, statistical trends, and additional datasets (e.g., educational institution data, employment records, social media) to address identified risks and improve community outcomes.
 
 
+Data Story
+
+The Rise of Engagement in youth
+
+Introduction: A surprising statistic in youth engagement and risk factor
+
+Problem: The challenge of identifying risk factors stopping youth from engaging in post school studies.
+
+![DataStory](https://github.com/ying1488/GenNow/blob/main/DataStory.png)
+
+Data from : Australian Bureau of Statistics (2021)
+
+Data shows that : Community with lower household income will have lesser percentage of the population engaging in post school studies.
+
+Insights: By identifying the lower weekly household income leading to a lesser percentage of the population engaging in post school studies, this is one of the risk factor lowering the engagement of engaging in post school studies.
+In the AI model , weekly income will be graded based on the median weekly household income of Australia giving it a score following guidelines of the risk ruler.
+With the sum of all the other risk factor in play, this community will attain a rating with a call of actions for policy makers to prioritise actions to minimise the level of risk in the community.
+
+Conclusion: A call to action for policymakers to use GenNow to identify risk factor, implementing measures to improve the outcome of engagement for a particular community.
+
