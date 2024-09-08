@@ -42,7 +42,8 @@ Introduction: A surprising statistic in youth engagement and risk factor
 
 Problem: The challenge of identifying risk factors stopping youth from engaging in post school studies.
 
-![DataStory](https://github.com/ying1488/GenNow/blob/main/DataStory.png)
+![DataStory](https://github.com/ying1488/GenNow/blob/main/Images/DataStory.png)
+
 
 Data from : Australian Bureau of Statistics (2021)
 
