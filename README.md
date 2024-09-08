@@ -1,4 +1,6 @@
 GenNow
+
+
 GenNow is an application designed to aid policymakers in developing strategies to enhance youth engagement in post-secondary education. This project concentrated on identifying some risk factors that hinder youth participation in post-school studies. For a detailed case study utilizing Australian census data, please refer to the accompanying data story.
 
 Check out GenNow [GenNow](https://www.figma.com/proto/QFTfqfY055ex2X1ERT8PNr/Generation-Now?page-id=0%3A1&node-id=25-4305&node-type=CANVAS&viewport=22%2C54%2C0.35&t=QkksbewiBL0g9KHX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=20%3A1065)
@@ -26,8 +28,6 @@ Interpret these ratings to gauge the urgency of implementing community support m
 Future Model Applications
 
 In the future, this model could potentially:
-
-
 
 Generate tailored recommendations and support interventions.
 
