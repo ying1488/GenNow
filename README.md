@@ -5,13 +5,14 @@ AI Model Training Objective
 
 Our aim in training an AI model is to:
 
+
+Identify census data based on postal codes.
 ![AIModel1](https://github.com/user-attachments/assets/764e3d91-b2af-4439-afb6-24a28ec3e3aa)
+
+Analyze this data using a risk ruler to assess various financial factors.
 
 ![AIModel2](https://github.com/user-attachments/assets/9f3d654c-7035-4d6c-9e0d-adc997012bff)
 
-Identify census data based on postal codes.
-
-Analyze this data using a risk ruler to assess various financial factors.
 
 Consolidate all risk ruler scores to determine a comprehensive rating.
 
